@@ -1,0 +1,27 @@
+{
+  "version": "3.69.28997.0",
+  "course_id": "5YcrTPX64zw",
+  "title": "Tracing the History of Forensic Science",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Forensic Timeline"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5vpANIpeRPo",
+      "title": "Timeline",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 2045,
+    "height": 565
+  },
+  "stage": {
+    "width": 2025,
+    "height": 522
+  }
+}
